@@ -1,0 +1,9 @@
+# Python version: 3.11 (use conda environment)
+streamlit
+langchain
+langchain-core
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+huggingface-hub
